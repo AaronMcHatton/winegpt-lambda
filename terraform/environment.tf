@@ -1,9 +1,9 @@
-variable "access_key" {
+variable "ACCESS_KEY" {
   type      = string
   sensitive = true
 }
 
-variable "secret_key" {
+variable "SECRET_KEY" {
   type      = string
   sensitive = true
 }
