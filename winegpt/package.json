@@ -1,5 +1,5 @@
 {
-  "name": "winegpt-lambda",
+  "name": "winegpt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
